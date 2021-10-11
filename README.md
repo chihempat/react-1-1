@@ -1,2 +1,2 @@
-# react-1-1
+# tictactoereact
 Created with CodeSandbox
